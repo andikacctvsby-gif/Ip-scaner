@@ -1,0 +1,6 @@
+{
+  "name": "IP Scanner",
+  "description": "Pemindai jaringan WiFi cepat dan akurat untuk mendeteksi perangkat terhubung, identifikasi vendor MAC & kategori perangkat, port scanning, dan diagnostik ping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

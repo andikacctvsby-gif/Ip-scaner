@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IP Scanner</string>
+    <string name="tab_scanner">Pemindai</string>
+    <string name="tab_saved">Tersimpan</string>
+    <string name="tab_history">Riwayat</string>
+    <string name="tab_tools">Alat Jaringan</string>
+    <string name="action_scan">Mulai Pindai</string>
+    <string name="action_stop">Hentikan</string>
+    <string name="action_rescan">Pindai Ulang</string>
+    <string name="status_scanning">Memindai jaringan WiFi…</string>
+    <string name="status_idle">Siap memindai</string>
+    <string name="status_completed">Pemindaian selesai</string>
+    <string name="devices_found">perangkat ditemukan</string>
+</resources>
